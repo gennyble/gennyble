@@ -17,7 +17,7 @@ But that's not all I write! Here are some projects I'm particularly proud of
 
 [gifed][gifed] is a Rust crate for reading and writing gif files. It gives you full control while trying to stay simple to use.
 
-[Sail][sail] is a spec compliant SMTP server and relay. It's still in it's early stages of developement.
+[Sail][sail] is a spec compliant SMTP server and relay. It's still in it's early stages of development.
 
 [gifed]: https://github.com/gennyble/gifed
 
