@@ -1,0 +1,137 @@
+<html>
+
+<head>
+	<title>Genevieve Zenla</title>
+	<style>
+		* {
+			margin: 0px;
+			padding: 0px;
+			box-sizing: border-box;
+		}
+
+		:root {
+			font-family: sans-serif;
+		}
+
+		@media screen {
+			body {
+				text-align: center;
+				padding: 1in 0;
+				background-color: #f8f8f8;
+			}
+
+			article {
+				background-color: white;
+				display: inline-block;
+				text-align: left;
+				width: 8.25in;
+				height: 11.75in;
+				border: 1px solid #888;
+				box-shadow: 5px 5px 5px #ddd;
+			}
+		}
+
+		@media print,
+		screen {
+
+			header,
+			main {
+				margin: 0.5in 1in;
+			}
+
+			header {
+				display: flex;
+				margin-top: 1in;
+				align-items: baseline;
+			}
+
+			header h1 {
+				font-size: 24pt;
+				flex: 1;
+			}
+
+			header h2 {
+				font-size: 16pt;
+				height: min-content;
+			}
+
+			main {
+				font-size: 12pt;
+			}
+
+			main section,
+			main>section>p {
+				margin: 0.25in 0px;
+			}
+
+			main section p:nth-of-type(1) {
+				margin-top: 0;
+			}
+
+			main h1 {
+				font-size: inherit;
+			}
+		}
+	</style>
+</head>
+
+<body>
+	<article>
+		<header>
+			<h1>First Last</h1>
+			<h2>gen@nyble.dev</h2>
+		</header>
+		<main>
+			<section>
+				<h1>Objective</h1>
+				<p>
+					Uh, nuh, huh, luh, guh- Write code in a language I love and get paid for it so I can like, start a
+					career or something. Also like, move out and be able to afford food. That'd be nice.
+				</p>
+			</section>
+			<section>
+				<h1>DevOps</h1>
+				<p>
+					I'm super cool and run my own infrastructure for fear of it being taken awa- I MEAN because I have
+					an interest in technological self sufficiency. This's lead my to deploy Nginx to serve my website,
+					BIND9 to serve my DNS, and OpenSMTPD&ZeroWidthSpace;/&ZeroWidthSpace;Dovecot to handle my email.
+				</p>
+			</section>
+			<section>
+				<h1>Like, small tools, idk, too much to put under software dev</h1>
+				<p>
+					They're not all that impressive but I use them sometimes so uh here they are.
+				</p>
+				<p>
+					<a href="https://github.com/gennyble/towebp">towebp</a> is a very simple tool, but those can be some
+					of the most useful. It takes images in PNG or Jpeg and transcodes them to WebP for faster load times
+					and a smaller file size.
+				</p>
+				<p>
+					<a href="https://github.com/gennyble/rnprefix">rnprefix</a> idk but I use it the most. It helps me
+					remove the "Band - Album -" from the MP3s that bandcamp gives.
+				</p>
+				<p>
+					Pixel art does not do well when scaled with algorithms that do any kind of interpolation, so I wrote
+					<a href="https://github.com/gennyble/neam">neam</a> to scale my pixel art for easier viewing.
+				</p>
+			</section>
+			<section>
+				<h1>Like, bigger things???</h1>
+				<p>
+					I am particularly proud of the documentation for <a
+						href="https://github.com/gennyble/confindent">confindent</a>&mdash;a Rust crate for parsing
+					configuration files with no dependencies.
+				</p>
+			</section>
+			<section>
+				<h1>Give me money!</h1>
+				<p>
+					I can do things, see, please, like, $$$$
+				</p>
+			</section>
+		</main>
+	</article>
+</body>
+
+</html>
