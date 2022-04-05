@@ -30,6 +30,12 @@
 			}
 		}
 
+		a {
+			color: #33aa88;
+			text-decoration: none;
+			border-bottom: 1px dashed #33aa88;
+		}
+
 		@media print,
 		screen {
 
@@ -40,6 +46,7 @@
 
 			header {
 				display: flex;
+				flex-wrap: wrap;
 				margin-top: 1in;
 				align-items: baseline;
 			}
@@ -52,6 +59,13 @@
 			header h2 {
 				font-size: 16pt;
 				height: min-content;
+			}
+
+			header h3 {
+				font-weight: normal;
+				font-size: inherit;
+				flex: 1;
+				width: 100%;
 			}
 
 			main {
@@ -82,7 +96,7 @@
 <body>
 	<article>
 		<header>
-			<h1>First Last</h1>
+			<h1>Genevieve Zenla <span style="font-size: 16pt">they/she</h1>
 			<h2>gen@nyble.dev</h2>
 		</header>
 		<main>
@@ -96,15 +110,15 @@
 				<h2>NIU Vice Provost Tech Team (October 2019 - April 2020)</h2>
 				<ul style="padding-left: 1rem; list-style-type: '- '; margin-bottom: 0.125in;">
 					<li>Communicate effectively with people from a wide variety of backgrounds.</li>
-					<li>Transition to remote work during the start of the covid-19 pandemic and assist university
+					<li>Transition to remote work during the start of the COVID-19 pandemic and assist university
 						employees in doing the same.</li>
 				</ul>
 			</section>
 			<section>
 				<h1>DevOps</h1>
 				<p>
-					I am interested in technological self sufficiency. This has led me to running my own email, dns,
-					and website.
+					I am interested in technological self sufficiency. OpenSMTPD and Dovecot handle my email, nginx my
+					website, and BIND my DNS.
 				</p>
 			</section>
 			<section>
@@ -115,7 +129,7 @@
 					configuration files with no dependencies.
 				</p>
 				<p>
-					A gif library with a clean high-level and low-level API, <a
+					A GIF library with a clean high-level and low-level API, <a
 						href="https://github.com/gennyble/gifed">gifed</a>.
 				</p>
 			</section>
@@ -123,17 +137,17 @@
 				<h1>Projects - Tools</h1>
 				<p>
 					<a href="https://github.com/gennyble/towebp">towebp</a> is a very simple tool, but those can be some
-					of the most useful. It takes images in png or jpeg and transcodes them to WebP for faster load times
+					of the most useful. It takes images in PNG or JPEG and transcodes them to WebP for faster load times
 					and a smaller file size.
 				</p>
 				<p>
-					Pixel art does not do well when scaled with algorithms that do any kind of interpolation, so I wrote
-					<a href="https://github.com/gennyble/neam">neam</a> to scale my pixel art with Nearest Neighbor for
-					better a better viewing experience.
+					Created a program for scaling pixel art as most other tools introduce blurring.
+					<a href="https://github.com/gennyble/neam">neam</a> uses an implementation of Nearest Neighbor to
+					rescale art while maintaining sharpness.
 				</p>
 				<p>
-					A sort-of binary file markup language. <a href="https://github.com/gennyble/hext">hext</a> is
-					designed to allow you to write binary files in a text editor.
+					An ad-hoc binary file markup language. <a href="https://github.com/gennyble/hext">hext</a> is
+					designed to allow you to write binary files in any text editor.
 				</p>
 			</section>
 		</main>
