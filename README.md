@@ -1,4 +1,4 @@
-Hello! I'm gennyble and my pronouns are they/them. I like to write small tools and toys in hopes of bettering the lives of those who use them. My language of choice is Rust but I feel like I can handle myself in Javascript, Java, and C, among others.
+Hello! I'm Genevieve, Genny for short, and my pronouns are they/them. I like to write small tools and toys in hopes of bettering the lives of those who use them. My language of choice is Rust but I feel like I can handle myself in Javascript, Java, and C, among others.
 
 I like getting email! If you want to chat you can reach me at [gen@nyble.dev](mailto:gen@nyble.dev). I very much like exploring people's websites. If you do, too, you can find mine here: <https://nyble.dev>
 
@@ -13,15 +13,14 @@ I write a lot of small tools for the command line, here are some of my favorites
 [rnprefix]: https://github.com/gennyble/rnprefix
 [neam]: https://github.com/gennyble/neam
 
-But that's not all I write! Here are some projects I'm particularly proud of
+Here are some crates I've written and try to maintain:   
+➥ a tree based configuration language. [confindent][confindent] mimcs ~/.ssh/config  
+🏗 [bempline][bempline] used to stand for "bad template engine"  
+🎁 [gifed][gifed] provides a high and low-level API for gif files
 
-[gifed][gifed] is a Rust crate for reading and writing gif files. It gives you full control while trying to stay simple to use.
-
-[Sail][sail] is a spec compliant SMTP server and relay. It's still in it's early stages of development.
-
+[confindent]: https://github.com/gennyble/confindent
+[bempline]:https://github.com/gennyble/bempline
 [gifed]: https://github.com/gennyble/gifed
-
-[sail]: https://github.com/mademast/sail
 
 If you've found something I've written helpful, consider [sponsoring me][sponsor]!
 
