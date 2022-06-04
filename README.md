@@ -1,4 +1,4 @@
-Hello! I'm Genevieve, Genny for short, and my pronouns are they/them. I like to write small tools and toys in hopes of bettering the lives of those who use them. My language of choice is Rust but I feel like I can handle myself in Javascript, Java, and C, among others.
+Hello! I like to write small tools and toys in hopes of bettering the lives of those who use them. My language of choice is Rust but I feel like I can handle myself in Javascript, Java, and C, among others.
 
 I like getting email! If you want to chat you can reach me at [gen@nyble.dev](mailto:gen@nyble.dev). I very much like exploring people's websites. If you do, too, you can find mine here: <https://nyble.dev>
 
