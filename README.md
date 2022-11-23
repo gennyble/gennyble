@@ -13,7 +13,7 @@ I write a lot of small tools for the command line, here are some of my favorites
 [towebp]: https://github.com/gennyble/towebp
 [rnprefix]: https://github.com/gennyble/rnprefix
 [neam]: https://github.com/gennyble/neam
-[neam]: https://github.com/gennyble/tep
+[tep]: https://github.com/gennyble/tep
 
 Here are some crates I've written and try to maintain:   
 ➥ a tree based configuration language. [confindent][confindent] mimcs ~/.ssh/config  
