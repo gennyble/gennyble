@@ -6,12 +6,14 @@ I write a lot of small tools for the command line, here are some of my favorites
 ⬡ A binary file markup language and compiler, [Hext][hext]  
 🖼 A simple to use command line tool for converting images [towebp][towebp]  
 ➠ [rnprefix][rnprefix] for removing common filename prefixes, like an album name  
-🗚 Command line image scaler [neam][neam]
+🗚 Command line image scaler [neam][neam] \
+🎆 Type pixel art and then compile it with [tep][tep]
 
 [hext]: https://github.com/gennyble/hext
 [towebp]: https://github.com/gennyble/towebp
 [rnprefix]: https://github.com/gennyble/rnprefix
 [neam]: https://github.com/gennyble/neam
+[neam]: https://github.com/gennyble/tep
 
 Here are some crates I've written and try to maintain:   
 ➥ a tree based configuration language. [confindent][confindent] mimcs ~/.ssh/config  
