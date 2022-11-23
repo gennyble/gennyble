@@ -6,7 +6,7 @@ I write a lot of small tools for the command line, here are some of my favorites
 ⬡ A binary file markup language and compiler, [Hext][hext]  
 🖼 A simple to use command line tool for converting images [towebp][towebp]  
 ➠ [rnprefix][rnprefix] for removing common filename prefixes, like an album name  
-🗚 Command line image scaler [neam][neam] \
+🗚 Command line image scaler [neam][neam]  
 🎆 Type pixel art and then compile it with [tep][tep]
 
 [hext]: https://github.com/gennyble/hext
