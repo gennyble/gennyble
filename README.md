@@ -1,29 +1,17 @@
-Hello! I like to write small tools and toys in hopes of bettering the lives of those who use them. My language of choice is Rust but I feel like I can handle myself in Javascript, Java, and C, among others.
+I like writing software. Tiny tools are super cool.
 
-I like getting email! If you want to chat you can reach me at [gen@nyble.dev](mailto:gen@nyble.dev). I very much like exploring people's websites. If you do, too, you can find mine here: <https://nyble.dev>
+Have a look aroud my repositories! There's also a small directory of things I've made/am making over here: [nyble.dev/thing](https://nyble.dev/things.html)
 
-I write a lot of small tools for the command line, here are some of my favorites:  
-⬡ A binary file markup language and compiler, [Hext][hext]  
-🖼 A simple to use command line tool for converting images [towebp][towebp]  
-➠ [rnprefix][rnprefix] for removing common filename prefixes, like an album name  
-🗚 Command line image scaler [neam][neam]  
-🎆 Type pixel art and then compile it with [tep][tep]
+I'm currently working on:  
+- A GIF focused image viewer. It supports a bunch of image formats, but our goal is to make the GIF support best-in-class.
+- turquoise: a third party scrobble server. Like LastFM but you own the data.
 
-[hext]: https://github.com/gennyble/hext
-[towebp]: https://github.com/gennyble/towebp
-[rnprefix]: https://github.com/gennyble/rnprefix
-[neam]: https://github.com/gennyble/neam
-[tep]: https://github.com/gennyble/tep
+Those repositories are currently private, but will be opened on initial release.
 
-Here are some crates I've written and try to maintain:   
-➥ a tree based configuration language. [confindent][confindent] mimcs ~/.ssh/config  
-🏗 [bempline][bempline] used to stand for "bad template engine"  
-🎁 [gifed][gifed] provides a high and low-level API for gif files
+Public repos that I touch from time to time:
+- [confindent](https://github.com/gennyble/confindent). Rust crate; Configuration format based on indentation
+- [textual](https://github.com/gennyble/textual). A little thing I work on when I want to play with text rendering. Makes a text-focused image from URL query parameters.
 
-[confindent]: https://github.com/gennyble/confindent
-[bempline]:https://github.com/gennyble/bempline
-[gifed]: https://github.com/gennyble/gifed
-
-If you've found something I've written helpful, consider [sponsoring me][sponsor]!
+If you think something is cool or I've improved your life in some way, consider [sponsoring me][sponsor]!
 
 [sponsor]: https://github.com/sponsors/gennyble
