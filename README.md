@@ -1,7 +1,6 @@
 i like to write software. small things are nice.
 
-**currently**  
-*(last edited Mar 4th, 2023)*  
+**currently** *(last edited Mar 4th, 2023)*  
 - Implicit/Explicit TLS for [Sail](https://github.com/mademast/sail)
 - Linux client for heartbeat.
 
