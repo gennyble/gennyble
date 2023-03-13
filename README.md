@@ -1,9 +1,11 @@
 i like to write software. small things are nice.
 
-**currently** *(last edited Mar 12th, 2023)*  
-- Tone curve editor for [gaze][gaze]
+**currently** *(last edited Mar 13th, 2023)*  
+- [Tone curve editor][curver] for [gaze][gaze]
+- Color picker (also for gaze)
 
 [gaze]: https://github.com/eclecticnybles/gaze
+[curver]: https://github.com/eclecticnybles/gaze/blob/main/curver/README.md
 
 *on the backburner while i get distracted, hopelessly, with other things*
 - TLS for [Sail][sail]
