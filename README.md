@@ -1,8 +1,9 @@
 i like to write software. small things are nice.
 
-**currently** *(last edited Mar 13th, 2023)*  
+**currently** *(last edited Mar 19th, 2023)*  
 - [Tone curve editor][curver] for [gaze][gaze]
 - Color picker (also for gaze)
+- Webserver for nyble.dev *(why oh why, oh no)*
 
 [gaze]: https://github.com/eclecticnybles/gaze
 [curver]: https://github.com/eclecticnybles/gaze/blob/main/curver/README.md
