@@ -10,5 +10,5 @@ i like to write software. small things are nice.
 
 <3 thank you to my [sponsors](https://github.com/sponsors/gennyble)
 
-*recently, what have i done?*
-**nov 12–**auth and push button with heartbeat cli client
+*recently, what have i done?*  
+**nov 12–** auth and push button with heartbeat cli client
