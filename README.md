@@ -1,10 +1,14 @@
 i like to write software. small things are nice.
 
-**currently** *(last edited June 12th, 2023)*  
-- Reverse engineering Light's raw image format (LRI) for the L16: [l16-lri](https://github.com/gennyble/l16-lri). Eventually, hopefully, a nice library to read files with.
-- graphical tool for [digital trichrome](https://github.com/eclecticnybles/gaze/tree/main/dslr-trichrome)
-- Writing on [my website](https://nyble.dev)!
+**current goals** *(last edited Nov 13th, 2023)*  
+- find a job! *(are you hiring? [gen@nyble.dev](mailto:gen@nyble.dev))*
+- [heartbeat][nyble-heartbeat] CLI client; start on Linux GUI
+- better reports for [turquoise](https://turquoise.nyble.dev)
 
-<3
+[sail]: https://github.com/mademast/sail
+[nyble-heartbeat]: https://nyble.dev/heartbeat.html
 
-thank you to my [sponsors](https://github.com/sponsors/gennyble)
+<3 thank you to my [sponsors](https://github.com/sponsors/gennyble)
+
+*recently, what have i done?*
+**nov 12–**auth and push button with heartbeat cli client
