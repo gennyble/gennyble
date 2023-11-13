@@ -1,7 +1,7 @@
 i like to write software. small things are nice.
 
 **current goals** *(last edited Nov 13th, 2023)*  
-- find a job! *(are you hiring? [gen@nyble.dev](mailto:gen@nyble.dev))*
+- I need a job, are you hiring? [gen@nyble.dev](mailto:gen@nyble.dev))
 - [heartbeat][nyble-heartbeat] CLI client; start on Linux GUI
 - better reports for [turquoise](https://turquoise.nyble.dev)
 
