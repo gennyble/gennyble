@@ -2,6 +2,16 @@ i like to write software. small things are nice.
 
 I need a job, are you hiring? [gen@nyble.dev](mailto:gen@nyble.dev)
 
+*what I'd like to work on over the next $periodOfTime (dec 17)*
+- rewrite my website's software /again/ and reorganize the files.
+- cleanup the parser for [lri-rs][lri-rs]
+- get [lri-rs/prism][prism] outputting DNG
+- stabalize API for [gifed]; consider release *(docs, we need docs too)*
+
+[lri-rs]: https://github.com/gennyble/lri-rs
+[prism]: https://github.com/gennyble/lri-rs/tree/main/prism
+[gifed]: https://github.com/gennyble/gifed
+
 <3 thank you to my [sponsors](https://github.com/sponsors/gennyble)
 
 *recently, what have i done?*  
