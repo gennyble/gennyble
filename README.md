@@ -6,7 +6,8 @@ I need a job, are you hiring? [gen@nyble.dev](mailto:gen@nyble.dev)
 \- rewrite my website's software /again/ and reorganize the files.  
 \- cleanup the parser for [lri-rs][lri-rs]  
 \- get [lri-rs/prism][prism] outputting DNG  
-\- stabalize API for [gifed]; consider release *(docs, we need docs too)*
+\- stabalize API for [gifed]; consider release *(docs, we need docs too)*  
+\- trichlroide: file dialog, control bitrate, x264 encoding, roundtrip preview *(dec22)*
 
 [lri-rs]: https://github.com/gennyble/lri-rs
 [prism]: https://github.com/gennyble/lri-rs/tree/main/prism
