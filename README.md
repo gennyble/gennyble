@@ -13,6 +13,7 @@ I need a job, are you hiring? [gen@nyble.dev](mailto:gen@nyble.dev)
 [gifed]: https://github.com/gennyble/gifed
 
 *recently, what have i done?*  
+**dec 22 -** trichloride live effect switching and work towards a better gui
 **dec 21 -** egui for [trichloride][trichloride] and preparing for effect picking at runtime  
 **dec 16 -** [patch cgit][cgit-patch] to let me order sections *and* use `scan-path`  
 **dec 15 -** libmac-sys in [libmac-rs](https://github.com/gennyble/libmac-rs) *([click][vtable] for unhinged vtable nonsense)*
