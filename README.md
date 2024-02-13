@@ -1,5 +1,4 @@
-i like to write software. <!-- small things are nice.  
-I need a job, are you hiring? [gen@nyble.dev](mailto:gen@nyble.dev) --!>
+i like to write software.  
 <3 thank you to my [sponsors](https://github.com/sponsors/gennyble)
 
 *recently, what have i done?*  
